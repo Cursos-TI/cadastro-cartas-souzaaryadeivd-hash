@@ -15,7 +15,7 @@ int main() {
 printf ("Informe o seu Estado:\n");
 scanf ("%s", Estado);
 
-Printf ("Informe o Codido da Carta:\n");
+printf ("Informe o Codido da Carta:\n");
 scanf ("%s", Codigodacarta);
 
 printf ("Informe o Nome da Cidade:\n");
