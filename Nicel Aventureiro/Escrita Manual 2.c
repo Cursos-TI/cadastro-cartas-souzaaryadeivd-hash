@@ -1,49 +1,27 @@
 #include <stdio.h>
 int main (){
-  char[10]
-  char[10]
-  char[10]
-  char[10]
-  int 
 
-Carta 1:
+/*Carta Numero 01*/
+  char Estado01[10];
+  char Código01[10];
+  char NomedaCidade01[10]
+  int População01;
+  float Area01;
+  float PIB01;
+  int NumerodePontosTuristicos01;
+  float DensidadePopulacional01;
+  float PIBperCapita01;
 
-Estado: A
+/*Carta Numero 02*/
+  char Estado02[10];
+  char Código02[10];
+  char NomedaCidade02[10]
+  int População02;
+  float Area20;
+  float PIB02;
+  int NumerodePontosTuristicos02;
+  float DensidadePopulacional02;
+  float PIBperCapita02;
 
-Código: A01
 
-Nome da Cidade: São Paulo
 
-População: 12325000
-
-Área: 1521.11 km²
-
-PIB: 699.28 bilhões de reais
-
-Número de Pontos Turísticos: 50
-
-Densidade Populacional: 8102.47 hab/km²
-
-PIB per Capita: 56724.32 reais
-
- 
-
-Carta 2:
-
-Estado: B
-
-Código: B02
-
-Nome da Cidade: Rio de Janeiro
-
-População: 6748000
-
-Área: 1200.25 km²
-
-PIB: 300.50 bilhões de reais
-
-Número de Pontos Turísticos: 30
-
-Densidade Populacional: 5622.24 hab/km²
-
-PIB per Capita: 44532.91 reais
